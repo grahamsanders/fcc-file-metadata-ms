@@ -1,0 +1,27 @@
+{
+  "name": "fcc-file-metadata-ms",
+  "version": "1.0.0",
+  "description": "freeCodeCamp file metadata microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamsanders/fcc-file-metadata-ms.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Graham Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grahamsanders/fcc-file-metadata-ms/issues"
+  },
+  "homepage": "https://github.com/grahamsanders/fcc-file-metadata-ms#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
+}
